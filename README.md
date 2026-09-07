@@ -31,7 +31,7 @@ AI 产品经理｜ToB AI 产品落地｜Agent 工作流｜AI Coding
 - 根据血型、健康条件、所在区域及紧急程度设计匹配规则。
 - 支持互助状态追踪与结果记录，累计用户 200+。
 
-## 🧰 开源工具与实践
+## 🧰 开源工具
 
 ### [IP Skill](https://github.com/wwyd554/IP-skill)
 
