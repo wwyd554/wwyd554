@@ -1,3 +1,5 @@
+![武禹德｜AI 产品经理](assets/profile-banner.svg)
+
 ## Hi there 👋
 
 <!--
